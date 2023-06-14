@@ -1,6 +1,6 @@
 <h1>Budget Tracker</h1>
 <h3>The Budget Tracker is a web application that allows users to note down their income and expenses, helping them track their financial activities. This project is implemented using HTML, CSS, and JavaScript.
-
+<hr>
 <b>Features</b>:<br>
 Income Entry: Users can record their income by entering the source and amount.<br>
 Expense Entry: Users can record their expenses by entering the category, description, and amount.<br>
