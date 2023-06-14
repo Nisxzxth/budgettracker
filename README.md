@@ -6,5 +6,8 @@ Income Entry: Users can record their income by entering the source and amount.<b
 Expense Entry: Users can record their expenses by entering the category, description, and amount.<br>
 Total Calculation: The application automatically calculates the total income, total expense, and the remaining budget.<br>
 Transaction History: Users can view a history of their income and expense entries, including the date and time of each transaction.</h3>
+<hr>
+<h3>here is a screenshot of budget tracker</h3>
+<img src="ss.jpg" alt="screenshot">
 
 
